@@ -68,3 +68,15 @@ Special vowel diacritics:
 | T | ALT GR + T | Ṯ | ALT GR + . + T | Ṭ |  |  |  |  |
 | Z | ALT GR + z | ž | ALT GR + . + z | ẓ |  |  |  |  |
 | Z | ALT GR + Z | Ž | ALT GR + . + Z | Ẓ |  |  |  |  |
+
+### Special signs:
+
+| character | key combo | result example |
+| ------ | ----- | - |
+|ʿain | ʿ | ALT GR + ´ (apostroph) |
+| Hamza | ʾ | ALT GR + SHIFT + ´ |
+| Euro | € | ALT GR + 5 |
+| Ringel-S | ß | ALT GR + B |
+| Degree | ° | ALT GR + 0 |
+| Inverted question mark | ¿ | ALT GR + / |
+| Inverted exclamation mark | ¡ | ALT GR + 1 |
