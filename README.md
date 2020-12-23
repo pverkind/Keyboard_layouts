@@ -2,11 +2,11 @@
 
 Keyboard layouts for transcribing Arabic (and other languages) on Windows PCs.
 
-* transl2014: for QWERTY keyboards (most of the world)
+* translitQW2014: for QWERTY keyboards (most of the world)
 * Translit_NL1: for AZERTY keyboards (Belgium, France, ...)
 * Simon: for QWERTZ keyboards (Germany)
 
-See the PDF / docx document in the relevant folders for the keyboard combinations.
+See the PDF / docx document in the relevant zip folder for the keyboard combinations.
 
 ## Installation instructions: 
 
