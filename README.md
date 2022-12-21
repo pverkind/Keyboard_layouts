@@ -12,13 +12,15 @@ The keyboard layouts were created using MSKLC ([Microsoft Keyboard Layout Creato
 
 ## Installation instructions: 
 
-Download the zip file, unpack it and run the .msi or .exe file in it. 
+Download the zip file, unpack it and run the setup.exe file in it. 
 On Windows 10/11, you may have to activate the .NET 3.5 framework to make the installation possible 
 (see [here](https://learn.microsoft.com/en-us/dotnet/framework/install/dotnet-35-windows#enable-the-net-framework-35-in-control-panel)). 
 
 For troubleshooting, see [this discussion](https://answers.microsoft.com/en-us/windows/forum/windows_10-hardware-winpc/custom-keyboard-layout-with-windows-10/b71c7905-1e30-4b0c-861b-253efd2b5a9e). 
 
-To uninstall, go to Start, search for "Add or remove programs"; in the Settings dialog that appears, search for the name of the keyboard layout and click its uninstall button. 
+To uninstall, Run the setup.exe file again, and choose "Uninstall".
+Do not attempt to remove it using Windows' "Add or Remove Programs" utility
+(see [here](https://msklc-guide.github.io/#6)).
 
 ## Design principles: 
 
